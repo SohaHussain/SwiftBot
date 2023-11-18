@@ -1,5 +1,5 @@
 
-# SwiftBot
+# 🤖 SwiftBot
 
 A custom question-answering bot that is specifically made to answer questions from the thesis - **Celebrity, Music and Public Persona: A Case Study of Taylor Swift**
 
