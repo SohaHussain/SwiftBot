@@ -28,7 +28,7 @@ The following libraries are required to run this project :
     
 ## FLowchart
 
-![alt text](https://github.com/SohaHussain/SwiftBot/blob/main/swiftbot_flowchart.png)
+![alt text](https://github.com/SohaHussain/SwiftBot/blob/main/flowchart.png)
 
 
 ## Screenshots
