@@ -4,3 +4,4 @@ PyPDF2
 tiktoken
 chromadb
 streamlit
+dotenv
