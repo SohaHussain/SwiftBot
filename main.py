@@ -7,7 +7,7 @@ import streamlit as st
 from PyPDF2 import PdfReader
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
-from langchain.chains import RetrievalQAc
+from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
 from langchain.prompts import PromptTemplate 
